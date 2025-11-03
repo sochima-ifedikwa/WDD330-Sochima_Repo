@@ -1,5 +1,6 @@
 # BYU-Pathway Worldwide Online
 ## WDD 330 - Web Frontend Development II
+https://camper-tent.netlify.app/ is the production site
 
 ### ⛺ SleepOutside Starter Code
 
